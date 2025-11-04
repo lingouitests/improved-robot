@@ -1,4 +1,9 @@
 [{
+  "key":"tuesday_1",
+  "value":"tuesday",
+  "nodeID":"node_id.126:4",
+  "lastChanged":1762255956
+},{
   "key":"monday_1",
   "value":"monday",
   "nodeID":"node_id.125:3",
